@@ -317,7 +317,7 @@
         "region": "Θεσσαλονίκη",
         "title": "Γ.Ν.Θ. <<Γ. Παπανικολάου>>",
         "position": { "lat": 40.6308, "lng": 23.0445},
-        "link" : "<a href='http://gpapanikolaou.gr/eidikevomenoi.html' target='_blank'><b>Λίστα ειδικευόμενων</b></a><br><a href='http://www.pkm.gov.gr/default.aspx?lang=el-GR&page=128' target='_blank'><b>Λίστα αναμονής ανα ειδικότητα και νοσοκομείο</b></a>",
+        "link" : "<a href='https://gpapanikolaou.gr/eidikevomenoi/' target='_blank'><b>Λίστα ειδικευόμενων</b></a><br><a href='http://www.pkm.gov.gr/default.aspx?lang=el-GR&page=128' target='_blank'><b>Λίστα αναμονής ανα ειδικότητα και νοσοκομείο</b></a>",
         "specialties": [1,2,3,5,8,9,10,11,12,13,14,15,16,17,20,22,24,25,27,28,30,35,38,39],
         "years": {
             "1" : "Πλήρης Χρόνος",
